@@ -17,14 +17,14 @@ AI-агент для Telegram, реализованный в n8n, с подде�
 
 # Архитектура
 
-** Telegram Trigger — входная точка ** 
-Валидация команд и контекста -
-Fetch / Aggregate Notion data
-Dynamic Prompt Builder
-OpenAI Chat Model (LLM Chain)
-Telegram Response Formatter
-Logging в Notion
-Error Trigger + Telegram Alerts
+- Telegram Trigger — входная точка
+- Валидация команд и контекста
+- Fetch / Aggregate Notion data
+- Prompt Builder
+- OpenAI Chat Model (LLM Chain)
+- Telegram Response Formatter
+- Logging в Notion
+- Error Trigger + Telegram Alerts
 
 Архитектура построена модульно и масштабируется добавлением новых сценариев без изменения базового workflow.
 
