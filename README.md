@@ -34,7 +34,7 @@ Error Trigger + Telegram Alerts
 
 1. дайджест 
 
-2. резюмирование данных (insight, news, ideas)
+2. резюмирование данных (insight, news, tasks, ideas)
 
 3. автоматические отчёты
 
