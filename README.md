@@ -4,6 +4,11 @@ AI-агент для Telegram, реализованный в n8n, с подде�
 
 ---
 
+<img width="1642" height="666" alt="Workflow Screenshot AI-Telegram-Agent-n8n-OpenAI-Notion" src="https://github.com/user-attachments/assets/55b98d57-f315-4499-b457-a3bbf88e5a1b" />
+
+
+---
+
 ## Возможности
 
 - Обработка пользовательских команд из Telegram;
